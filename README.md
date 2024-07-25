@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruthvik Thimmoji</h1>
 <h3 align="center">A passionate frontend developer And UX/UI Designer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthvikthimmoji" alt="ruthvikthimmoji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=ruthvikthimmoji" alt="ruthvikthimmoji" /></a> </p>
 
 - 🔭 I’m currently working on [CartHair](https://carthair1.vercel.app/)
 
