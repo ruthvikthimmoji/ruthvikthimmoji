@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ruthvik-thimmoji.vercel.app/](https://ruthvik-thimmoji.vercel.app/)
 
-- 💬 Ask me about **React,Javascript,Python**
+- 💬 Ask me about **FrontEnd Devlopment,React,Javascript,Python**
 
 - 📫 How to reach me **thimmojiruthvik@gmail.com**
 
