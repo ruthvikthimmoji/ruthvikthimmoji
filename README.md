@@ -26,7 +26,7 @@
 <a href="https://medium.com/@thimmojiruthvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thimmojiruthvik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thimmojiruthvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/thimmojiruthvik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thimmojiruthvik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/thimmojiruthvik/" height="30" width="40" /></a>
-<a href="https://discord.gg/ruthvik4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@ruthvik4" height="30" width="40" /></a>
+<a href="https://discord.gg/@ruthvik4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@ruthvik4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
